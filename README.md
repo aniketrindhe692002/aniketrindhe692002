@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, I'm Aniket Rindhe! 👋
 
-<!--
-**aniketrindhe692002/aniketrindhe692002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Computer Science Engineering student at MMIT College. Welcome to my coding universe! 🚀
 
-Here are some ideas to get you started:
+## 🌐 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Computer Science at MMIT College.
+- 💻 Exploring the worlds of AI/ML and Data Science.
+- 🌐 Building web dreams with HTML, CSS, and diving into SQL databases.
+- 🤖 Enthusiastic about the art of AI/ML and deep learning.
+
+## 🚀 My Skills
+
+- **Languages:** C, C++, Python
+- **Technologies:** AI/ML, Data Science, Deep Learning, NLP, Pattern Recognition
+- **Web Development:** HTML, CSS
+- **Databases:** SQL
